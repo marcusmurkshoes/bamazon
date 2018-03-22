@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon is a customer application where you are shown a list of stock items, then asked which item and the quantity , then showing them the total of their purchase or prompting the customoer that there wasn't enough stock left.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusmurkshoes/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusmurkshoes/bamazon/issues"
+  },
+  "homepage": "https://github.com/marcusmurkshoes/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql2": "^1.5.2"
+  }
+}
